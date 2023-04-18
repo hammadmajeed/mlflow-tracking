@@ -1,0 +1,7 @@
+artifact_location: file:///Users/hammadmajeed/Documents/Teaching/Spring%202023/MLOps/HandsOn/mlflow/mlruns/787494032476150030
+creation_time: 1681782640027
+experiment_id: '787494032476150030'
+last_update_time: 1681789790931
+lifecycle_stage: active
+name: mlflow-demo
+tags: {}

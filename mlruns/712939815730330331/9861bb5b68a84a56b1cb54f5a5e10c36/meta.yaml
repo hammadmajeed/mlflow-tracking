@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hammadmajeed/Documents/Teaching/Spring%202023/MLOps/HandsOn/mlflow/mlruns/712939815730330331/9861bb5b68a84a56b1cb54f5a5e10c36/artifacts
+end_time: 1681790370265
+entry_point_name: ''
+experiment_id: '712939815730330331'
+lifecycle_stage: active
+run_id: 9861bb5b68a84a56b1cb54f5a5e10c36
+run_name: run_0
+run_uuid: 9861bb5b68a84a56b1cb54f5a5e10c36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681790366231
+status: 3
+tags: []
+user_id: hammadmajeed
